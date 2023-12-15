@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BomberKing7
 - 👀 I’m interested in math
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on making mobile games that will change the futur  forever
+- 💞️ I’m looking to collaborate on making mobile games that will change the future  forever
 - 📫 How to reach me facebook(ahmad Tamam HajYhya)
 
 <!---
